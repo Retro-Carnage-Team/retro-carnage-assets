@@ -1,0 +1,15 @@
+{
+  "ammo": ".50 BMG",
+  "bulletInterval": 1000,
+  "bulletRange": 1600,
+  "bulletSpeed": 2.0,
+  "description": "Barrett built the first prototype of the rifle in 12.7 × 99 mm NATO caliber in 1982, which explains the designation M82. In the early years of the company, only a few examples were produced for the civilian market. This changed when the Swedish army bought 100 rifles in 1989. A short time later, the US armed forces ordered a larger quantity of M82s in preparation for Operation Desert Storm as a Special Applications Scoped Rifle (SASR). The M82 is currently in military use in over 30 countries; among other things, the rifle was introduced to the Bundeswehr as the G82 as part of the 'Infantryman of the Future' program and is now an integral part of the Bundeswehr sniper's equipment. The German version differs from the standard rifle in that it has a new Zeiss telescopic sight with a magnification of six to twenty-four times. In the G82A1 version, the weight was reduced by 2.5 kg through the use of titanium and aluminum and three additional Picatinny rails were attached to the receiver. The powerful cartridge led to the creation of myths about the rifle, which is often said to have devastating destructive power. In fact, the effect on the target depends on the ammunition. The M82A1 is mainly used against lightly armored vehicles, aircraft and other material targets such as radar antennas, missile positions and to eliminate unexploded ordnance. It is also used to combat enemy snipers, as the rifle has a long effective range and is also effective through obstacles.",
+  "image": "images/weapons/M82A1.png",
+  "imageRotated": "images/weapons/M82A1-r.png",
+  "length": "145 cm",
+  "name": "G82",
+  "price": 19800,
+  "sound": "M28A1.mp3",
+  "weaponType": 0,
+  "weight": "13 kg"
+}
