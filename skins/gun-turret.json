@@ -1,0 +1,52 @@
+{
+  "name": "gun-turret",
+  "movement": {},
+  "idle": {
+    "up_left": {
+      "sprite": "images/environment/gun-turret-up_left.png",
+      "offset": {
+        "x": -3,
+        "y": 0
+      }
+    },
+    "up_right": {
+      "sprite": "images/environment/gun-turret-up_right.png",
+      "offset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "down_right": {
+      "sprite": "images/environment/gun-turret-down_right.png",
+      "offset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "down_left": {
+      "sprite": "images/environment/gun-turret-down_left.png",
+      "offset": {
+        "x": -3,
+        "y": 0
+      }
+    }
+  },
+  "bulletOffsets": {
+    "up_right": {
+      "x": 87,
+      "y": 0
+    },
+    "down_right": {
+      "x": 87,
+      "y": 89
+    },
+    "down_left": {
+      "x": 0,
+      "y": 89
+    },
+    "up_left": {
+      "x": 0,
+      "y": 0
+    }
+  }
+}

@@ -42,6 +42,18 @@
             {
               "delay": 250,
               "action": "bullet"
+            },
+            {
+              "delay": 250,
+              "action": "bullet"
+            },
+            {
+              "delay": 250,
+              "action": "bullet"
+            },
+            {
+              "delay": 500,
+              "action": "grenade"
             }
           ],
           "movements": [],
@@ -84,6 +96,24 @@
           },
           "skin": null,
           "type": 1
+        },
+        {
+          "actions": [
+            {
+              "delay": 200,
+              "action": "bullet"
+            }
+          ],
+          "movements": [],
+          "direction": "up_right",
+          "position": {
+            "x": 1000,
+            "y": -1200,
+            "width": 86,
+            "height": 44
+          },
+          "skin": "gun-turret",
+          "type": 2
         }
       ],
       "goal": null,
