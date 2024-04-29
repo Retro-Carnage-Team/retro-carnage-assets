@@ -5,8 +5,20 @@
     "latitude": 384,
     "longitude": 800
   },
-  "music": "MUSIC_BACKGROUND_5",
+  "music": "Dance-Harder.mp3",
   "name": "Mogadischu",
   "reward": 15000,
-  "segments": []
+  "segments": [{
+    "backgrounds": [
+      "images/levels/bg-dummy-2.jpg",
+      "images/levels/bg-dummy-3.jpg",
+      "images/levels/bg-dummy-1.jpg",
+      "images/levels/bg-dummy-2.jpg",
+      "images/levels/bg-dummy-3.jpg"
+    ],
+    "direction": "left",
+    "enemies": [],
+    "goal": {"x": -5800, "y":200, "width": 200, "height": 200},
+    "obstacles": []
+  }]
 }

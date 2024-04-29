@@ -85,6 +85,33 @@
           "skin": "enemy-1",
           "type": 0
         },
+
+        {
+          "actions": [
+            {
+              "delay": 350,
+              "action": "bullet"
+            }
+          ],
+          "movements": [
+            {
+              "duration": 4000,
+	            "offsetXPerMs": 0,
+	            "offsetYPerMs": 0.5
+            }
+          ],
+          "direction": "down",
+          "position": {
+            "x": 600,
+            "y": -500,
+            "width": 90,
+            "height": 150
+          },
+          "skin": "enemy-1",
+          "spawnDelays": [2500, 2500, 2500, 10000],
+          "type": 3
+        },
+
         {
           "movements": [],
           "direction": null,

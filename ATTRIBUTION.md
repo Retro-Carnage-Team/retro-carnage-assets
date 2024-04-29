@@ -264,3 +264,6 @@ the author of the software.
 * General purpose machine gun pimple & turret mounted firing in turn. copyright
   by [BBC](http://www.bbc.co.uk) ([Link](http://bbcsfx.acropolis.org.uk/07043192#id)
   , [License](https://github.com/bbcarchdev/Remarc/blob/master/doc/2016.09.27_RemArc_Content%20licence_Terms%20of%20Use_final.pdf))
+* Aircraft: Helicopters - Sea King Helicopter, exterior, approach, land, shut down. copyright
+  by [BBC](http://www.bbc.co.uk) ([Link](https://sound-effects.bbcrewind.co.uk/search?q=&source=bbc_archive)
+  , [License](https://sound-effects.bbcrewind.co.uk/licensing))

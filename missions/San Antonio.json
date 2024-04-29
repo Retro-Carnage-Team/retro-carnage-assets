@@ -5,8 +5,20 @@
     "latitude": 257,
     "longitude": 309
   },
-  "music": "MUSIC_BACKGROUND_11",
+  "music": "Dance-Harder.mp3",
   "name": "San Antonio",
   "reward": 9000,
-  "segments": []
+  "segments": [{
+    "backgrounds": [
+      "images/levels/bg-dummy-2.jpg",
+      "images/levels/bg-dummy-3.jpg",
+      "images/levels/bg-dummy-1.jpg",
+      "images/levels/bg-dummy-2.jpg",
+      "images/levels/bg-dummy-3.jpg"
+    ],
+    "direction": "left",
+    "enemies": [],
+    "goal": {"x": -5800, "y":200, "width": 200, "height": 200},
+    "obstacles": []
+  }]
 }
