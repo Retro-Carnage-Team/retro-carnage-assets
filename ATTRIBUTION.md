@@ -19,50 +19,62 @@ the author of the software.
 
 * Man Wearing Blue Crew-neck T-shirt
   by [Italo Melo](https://www.pexels.com/@italo-melo-881954?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
-  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) ([Link](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/)
+  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) 
+  ([Link](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/)
   , [License](https://www.pexels.com/photo-license/))
 * Photo of Girl Wearing Brown Shirt
   by [Marcelo Dias](https://www.pexels.com/@marcelodias?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
-  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) ([Link](https://www.pexels.com/photo/photo-of-girl-wearing-brown-shirt-2104252/)
+  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+  ([Link](https://www.pexels.com/photo/photo-of-girl-wearing-brown-shirt-2104252/)
   , [License](https://www.pexels.com/photo-license/))
 * Man Sitting Near Purple Wall
   by [Bharat Kumar](https://www.pexels.com/@bharatkuiper?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels)
-  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels) ([Link](https://www.pexels.com/photo/man-sitting-near-purple-wall-2232981/)
+  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels)
+  ([Link](https://www.pexels.com/photo/man-sitting-near-purple-wall-2232981/)
   , [License](https://www.pexels.com/photo-license/))
 * Man Wearing Gray Cap and Crew-neck Top
   by [mo alzway](https://www.pexels.com/@zway?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
-  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) ([Link](https://www.pexels.com/photo/angry-beard-blur-close-up-542282/)
+  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+  ([Link](https://www.pexels.com/photo/angry-beard-blur-close-up-542282/)
   , [License](https://www.pexels.com/photo-license/))
 * Man in Black Shirt by [Pixabay](https://www.pexels.com/@pixabay)
-  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) ([Link](https://www.pexels.com/photo/man-in-black-shirt-35065/)
+  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+  ([Link](https://www.pexels.com/photo/man-in-black-shirt-35065/)
   , [License](https://www.pexels.com/creative-commons-images/))
 * Bald Man with a Serious Facial Expression
   by [Kevin Bidwell](https://www.pexels.com/@kevinbidwell?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
-  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) ([Link](https://www.pexels.com/photo/bald-man-with-a-serious-facial-expression-2380794/)
+  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+  ([Link](https://www.pexels.com/photo/bald-man-with-a-serious-facial-expression-2380794/)
   , [License](https://www.pexels.com/photo-license/))
 * Man Wearing Black Sunglasses and Black Beanie
   by [Wallace Chuck](https://www.pexels.com/@chuck?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
-  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) ([Link](https://www.pexels.com/photo/man-wearing-black-sunglasses-and-black-beanie-3984958/)
+  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+  ([Link](https://www.pexels.com/photo/man-wearing-black-sunglasses-and-black-beanie-3984958/)
   , [License](https://www.pexels.com/photo-license/))
 * Close-Up Photo of Man's Face
   by [David Kuko](https://www.pexels.com/@david-kuko-965630?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
-  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) ([Link](https://www.pexels.com/photo/close-up-photo-of-man-s-face-2743754/)
+  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+  ([Link](https://www.pexels.com/photo/close-up-photo-of-man-s-face-2743754/)
   , [License](https://www.pexels.com/photo-license/))
 * Man in Brown Coat and Gray Button Up Shirt
   by [Andrea Piacquadio](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
-  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) ([Link](https://www.pexels.com/photo/man-in-brown-coat-and-gray-button-up-shirt-3785074/)
+  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+  ([Link](https://www.pexels.com/photo/man-in-brown-coat-and-gray-button-up-shirt-3785074/)
   , [License](https://www.pexels.com/photo-license/))
 * Grayscale Photography of Man Wearing Polo Shirt
   by [Immortal shots](https://www.pexels.com/@deathless?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
-  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) ([Link](https://www.pexels.com/photo/adult-aged-black-and-white-close-up-1146603/)
+  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+  ([Link](https://www.pexels.com/photo/adult-aged-black-and-white-close-up-1146603/)
   , [License](https://www.pexels.com/photo-license/))
 * Portrait Photography of Man
   by [Shubh Lingwal](https://www.pexels.com/@mrweird0?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
-  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) ([Link](https://www.pexels.com/photo/adult-aged-beard-elder-1154059/)
+  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+  ([Link](https://www.pexels.com/photo/adult-aged-beard-elder-1154059/)
   , [License](https://www.pexels.com/photo-license/))
 * Woman Wearing Black Long Sleeved Shirt
   by [Flávio Augusto](https://www.pexels.com/@flavio-augusto-918711?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
-  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) ([Link](https://www.pexels.com/photo/woman-wearing-black-long-sleeved-shirt-1832959/)
+  from [Pexels](https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+  ([Link](https://www.pexels.com/photo/woman-wearing-black-long-sleeved-shirt-1832959/)
   , [License](https://www.pexels.com/photo-license/))
 
 ### Weapons
@@ -130,47 +142,18 @@ the author of the software.
 * explosion-7 by BenHickling (
   [Link](https://opengameart.org/content/explosion-7)
   , [License](https://creativecommons.org/publicdomain/zero/1.0/))
-* gamepad-24px by Google (
-  [Link](https://material.io/resources/icons/?icon=gamepad&style=baseline)
-  , [License](https://www.apache.org/licenses/LICENSE-2.0.html))
-* keyboard-24px by Google (
-  [Link](https://material.io/resources/icons/?icon=keyboard&style=baseline)
-  , [License](https://www.apache.org/licenses/LICENSE-2.0.html))
-* [Mann photo created by kjpargeter - de.freepik.com](https://de.freepik.com/fotos/mann) (
-  [Link](https://de.freepik.com/fotos-kostenlos/soldat-zu-fuss-silhouette_879706.htm)
-  , [License](https://de.freepik.com/profile/license/pdf/879706?lang=en))
 * [Stadt vector created by upklyak - de.freepik.com](https://de.freepik.com/vektoren/stadt) (
   [Link](https://de.freepik.com/vektoren-kostenlos/stadt-im-feuer-krieg-zerstoeren-brennende-kaputte-gebaeude_9750004.htm)
   , [License](https://de.freepik.com/profile/license/pdf/879706?lang=en))
-* The Flash Logo by Claybrooks (
-  [Link](https://www.cleanpng.com/png-muzzle-flash-desktop-wallpaper-portable-network-gr-7014651/), Free for Personal
-  Use)
-* Red Background by Ratani (
-  [Link](https://www.cleanpng.com/png-encapsulated-postscript-2080422/), Free for Personal Use)
-* Camera Cartoon by Dewole (
-  [Link](https://www.cleanpng.com/png-muzzle-flash-clip-art-the-flash-2406834/), Free for Personal Use)
-* Background Orange by Adoffice (
-  [Link](https://www.cleanpng.com/png-muzzle-flash-gunshot-clip-art-arvores-3379867/), Free for Personal Use)
-* Graphic Background by Inorka (
-  [Link](https://www.cleanpng.com/png-muzzle-flash-clip-art-4336582/), Free for Personal Use)
 * Brown Camouflage Pattern 11 by http://background-tiles.com (
   [Link](https://background-tiles.com/overview/yellow/1011.php)
-  , [License](https://background-tiles.com/terms.pdf))
-* Camouflage Pattern 21 by http://background-tiles.com (
-  [Link](https://background-tiles.com/overview/mixed-colors/1021.php)
   , [License](https://background-tiles.com/terms.pdf))
 * Crosshair-9-svg by iconmonstr.com (
   [Link](https://iconmonstr.com/crosshair-9-svg/)
   , [License](https://iconmonstr.com/license/))
-* Location marker by Loading.IO (
-  [Link](https://loading.io/spinner/dual-ring/-disqus-ring-donut-rotate)
-  , [License](https://loading.io/license/#free-license))
 * Blood Puddle (
   [Link](https://www.nicepng.com/ourpic/u2q8t4i1q8i1o0y3_blood-pool-transparent-png-clip-art-freeuse-download/#)
   , Free for Personal Use)
-* Amiga 500 by Bill Bertram (
-  [Link](https://commons.wikimedia.org/wiki/File:Leander_Amiga500.jpg)
-  , [License](https://creativecommons.org/licenses/by-sa/2.5/deed.en))
 * Burn Mark ([Link](https://pngio.com/images/png-a654622.html), Personal Use)
 * Sunset Soldiers by Jean Beaufort (
   [Link](https://www.publicdomainpictures.net/en/view-image.php?image=224388&picture=sunset-soldiers)
@@ -235,40 +218,37 @@ the author of the software.
 * LightMachineGun1.wav by SuperPhat ([Link](https://freesound.org/people/SuperPhat/sounds/417688/)
   , [License](http://creativecommons.org/publicdomain/zero/1.0/))
 * Gunfire: Machine Gun burst. copyright
-  by [BBC](http://www.bbc.co.uk) ([Link](http://bbcsfx.acropolis.org.uk/07027158#id)
-  , [License](https://github.com/bbcarchdev/Remarc/blob/master/doc/2016.09.27_RemArc_Content%20licence_Terms%20of%20Use_final.pdf))
+  by [BBC](http://www.bbc.co.uk) ([Link](https://sound-effects.bbcrewind.co.uk/search?q=07027158)
+  , [License](https://sound-effects.bbcrewind.co.uk/licensing))
 * Gunfire: Machine Gun burst. copyright
-  by [BBC](http://www.bbc.co.uk) ([Link](http://bbcsfx.acropolis.org.uk/07027159#id)
-  , [License](https://github.com/bbcarchdev/Remarc/blob/master/doc/2016.09.27_RemArc_Content%20licence_Terms%20of%20Use_final.pdf))
+  by [BBC](http://www.bbc.co.uk) ([Link](https://sound-effects.bbcrewind.co.uk/search?q=07027159)
+  , [License](https://sound-effects.bbcrewind.co.uk/licensing))
 * Sten Gun, firing in bursts. (Used during World War II.) copyright
-  by [BBC](http://www.bbc.co.uk) ([Link](http://bbcsfx.acropolis.org.uk/07034205#id)
-  , [License](https://github.com/bbcarchdev/Remarc/blob/master/doc/2016.09.27_RemArc_Content%20licence_Terms%20of%20Use_final.pdf))
+  by [BBC](http://www.bbc.co.uk) ([Link](https://sound-effects.bbcrewind.co.uk/search?q=07034205)
+  , [License](https://sound-effects.bbcrewind.co.uk/licensing))
 * 7.62mm tank machine gun firing. (Recorded inside tank.) copyright
-  by [BBC](http://www.bbc.co.uk) ([Link](http://bbcsfx.acropolis.org.uk/07034209#id)
-  , [License](https://github.com/bbcarchdev/Remarc/blob/master/doc/2016.09.27_RemArc_Content%20licence_Terms%20of%20Use_final.pdf))
+  by [BBC](http://www.bbc.co.uk) ([Link](https://sound-effects.bbcrewind.co.uk/search?q=07034209)
+  , [License](https://sound-effects.bbcrewind.co.uk/licensing))
 * 7.62mm tank machine gun firing. (Recorded outside tank.) copyright
-  by [BBC](http://www.bbc.co.uk) ([Link](http://bbcsfx.acropolis.org.uk/07034210#id)
-  , [License](https://github.com/bbcarchdev/Remarc/blob/master/doc/2016.09.27_RemArc_Content%20licence_Terms%20of%20Use_final.pdf))
+  by [BBC](http://www.bbc.co.uk) ([Link](https://sound-effects.bbcrewind.co.uk/search?q=07034210)
+  , [License](https://sound-effects.bbcrewind.co.uk/licensing))
 * Tank Guns, .3 machine gun firing. (Recorded inside tank.) copyright
-  by [BBC](http://www.bbc.co.uk) ([Link](http://bbcsfx.acropolis.org.uk/07034215#id)
-  , [License](https://github.com/bbcarchdev/Remarc/blob/master/doc/2016.09.27_RemArc_Content%20licence_Terms%20of%20Use_final.pdf))
+  by [BBC](http://www.bbc.co.uk) ([Link](https://sound-effects.bbcrewind.co.uk/search?q=07034215)
+  , [License](https://sound-effects.bbcrewind.co.uk/licensing))
 * Tank Guns, .3 machine gun firing. (Recorded outside tank.) copyright
-  by [BBC](http://www.bbc.co.uk) ([Link](http://bbcsfx.acropolis.org.uk/07034216#id)
-  , [License](https://github.com/bbcarchdev/Remarc/blob/master/doc/2016.09.27_RemArc_Content%20licence_Terms%20of%20Use_final.pdf))
+  by [BBC](http://www.bbc.co.uk) ([Link](https://sound-effects.bbcrewind.co.uk/search?q=07034216)
+  , [License](https://sound-effects.bbcrewind.co.uk/licensing))
 * General purpose machine gun, surface fire from close left. copyright
-  by [BBC](http://www.bbc.co.uk) ([Link](http://bbcsfx.acropolis.org.uk/07043188#id)
-  , [License](https://github.com/bbcarchdev/Remarc/blob/master/doc/2016.09.27_RemArc_Content%20licence_Terms%20of%20Use_final.pdf))
+  by [BBC](http://www.bbc.co.uk) ([Link](https://sound-effects.bbcrewind.co.uk/search?q=07043188)
+  , [License](https://sound-effects.bbcrewind.co.uk/licensing))
 * General purpose machine gun firing from behind & above. copyright
-  by [BBC](http://www.bbc.co.uk) ([Link](http://bbcsfx.acropolis.org.uk/07043191#id)
-  , [License](https://github.com/bbcarchdev/Remarc/blob/master/doc/2016.09.27_RemArc_Content%20licence_Terms%20of%20Use_final.pdf))
+  by [BBC](http://www.bbc.co.uk) ([Link](https://sound-effects.bbcrewind.co.uk/search?q=07043191)
+  , [License](https://sound-effects.bbcrewind.co.uk/licensing))
 * General purpose machine gun pimple & turret mounted firing in turn. copyright
-  by [BBC](http://www.bbc.co.uk) ([Link](http://bbcsfx.acropolis.org.uk/07043192#id)
-  , [License](https://github.com/bbcarchdev/Remarc/blob/master/doc/2016.09.27_RemArc_Content%20licence_Terms%20of%20Use_final.pdf))
+  by [BBC](http://www.bbc.co.uk) ([Link](https://sound-effects.bbcrewind.co.uk/search?q=07043192)
+  , [License](https://sound-effects.bbcrewind.co.uk/licensing))
 * Aircraft: Helicopters - Sea King Helicopter, exterior, approach, land, shut down. copyright
   by [BBC](http://www.bbc.co.uk) ([Link](https://sound-effects.bbcrewind.co.uk/search?q=&source=bbc_archive)
   , [License](https://sound-effects.bbcrewind.co.uk/licensing))
 * Analog appliance button 14 by [floraphonic](https://pixabay.com/users/floraphonic-38928062/) ([Link](https://pixabay.com/sound-effects/analog-appliance-button-14-186960/)
   , [License](https://pixabay.com/service/license-summary/))
-
-
-
