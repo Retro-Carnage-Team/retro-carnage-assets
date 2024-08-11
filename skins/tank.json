@@ -1,0 +1,32 @@
+{
+    "name": "tank",
+    "movement": {
+        "right": [
+            {
+                "sprite": "images/tank/right.png",
+                "offset": {
+                  "x": 0,
+                  "y": 0
+                }
+              }
+        ],
+        "down": [
+            {
+                "sprite": "images/tank/down.png",
+                "offset": {
+                  "x": 0,
+                  "y": 0
+                }
+              }
+        ],
+        "left": [
+            {
+                "sprite": "images/tank/left.png",
+                "offset": {
+                  "x": 0,
+                  "y": 0
+                }
+              }
+        ]
+    }
+}

@@ -95,8 +95,15 @@
           ],
           "movements": [
             {
-              "duration": 4000,
+              "direction": "down",
+              "duration": 500,
 	            "offsetXPerMs": 0,
+	            "offsetYPerMs": 0.5
+            },
+            {
+              "direction": "down_right",
+              "duration": 3000,
+	            "offsetXPerMs": 0.5,
 	            "offsetYPerMs": 0.5
             }
           ],
@@ -131,6 +138,7 @@
               "action": "bullet"
             }
           ],
+          "activationSound": "tank-moving.mp3",
           "movements": [],
           "direction": "up_right",
           "position": {

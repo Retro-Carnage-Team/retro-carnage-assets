@@ -250,5 +250,12 @@ the author of the software.
 * Aircraft: Helicopters - Sea King Helicopter, exterior, approach, land, shut down. copyright
   by [BBC](http://www.bbc.co.uk) ([Link](https://sound-effects.bbcrewind.co.uk/search?q=&source=bbc_archive)
   , [License](https://sound-effects.bbcrewind.co.uk/licensing))
-* Analog appliance button 14 by [floraphonic](https://pixabay.com/users/floraphonic-38928062/) ([Link](https://pixabay.com/sound-effects/analog-appliance-button-14-186960/)
+* Analog appliance button 14 by [floraphonic](https://pixabay.com/users/floraphonic-38928062/) (
+  [Link](https://pixabay.com/sound-effects/analog-appliance-button-14-186960/)
   , [License](https://pixabay.com/service/license-summary/))
+* Tank Track Ratteling by [u_3rdmeaw7un](https://pixabay.com/de/users/u_3rdmeaw7un-42985238/) (
+  [Link](https://pixabay.com/de/sound-effects/tank-track-ratteling-197409/), 
+  [License](https://pixabay.com/service/license-summary/))
+* Incoming Ricochets 2 by [rakurka](https://freesound.org/people/rakurka/) (
+  [Link](https://freesound.org/s/109957/), 
+  [License](https://creativecommons.org/licenses/by/3.0/))

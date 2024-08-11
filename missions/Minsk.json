@@ -16,9 +16,94 @@
       "images/levels/bg-dummy-2.jpg",
       "images/levels/bg-dummy-3.jpg"
     ],
-    "direction": "left",
-    "enemies": [],
-    "goal": {"x": -5800, "y":200, "width": 200, "height": 200},
-    "obstacles": []
-  }]
+    "direction": "up",
+    "enemies": [
+      {
+        "actions": [],
+        "movements": [
+          {
+            "direction": "down",
+            "duration": 2000,
+            "offsetXPerMs": 0,
+            "offsetYPerMs": 0.5
+          }
+        ],
+        "direction": "down",
+        "position": {
+          "x": 600,
+          "y": -500,
+          "width": 362,
+          "height": 550
+        },
+        "skin": "tank",
+        "spawnDelays": [],
+        "type": 4
+      }
+    ],
+    "goal": null,
+      "obstacles": [
+        {
+          "x": 400,
+          "y": -2700,
+          "width": 200,
+          "height": 200,
+          "stopsBullets": true,
+          "stopsExplosives": true
+        },
+        {
+          "x": 800,
+          "y": -2700,
+          "width": 200,
+          "height": 200,
+          "stopsBullets": true,
+          "stopsExplosives": false
+        },
+        {
+          "x": 1200,
+          "y": -2700,
+          "width": 200,
+          "height": 200,
+          "stopsBullets": false,
+          "stopsExplosives": false
+        }
+      ]
+    },
+    {
+      "backgrounds": [
+        "images/levels/bg-dummy-2.jpg",
+        "images/levels/bg-dummy-3.jpg",
+        "images/levels/bg-dummy-1.jpg",
+        "images/levels/bg-dummy-2.jpg",
+        "images/levels/bg-dummy-3.jpg"
+      ],
+      "direction": "left",
+      "enemies": [
+        {
+          "actions": [
+            {
+              "delay": 500,
+              "action": "bullet"
+            }
+          ],
+          "movements": [
+            {
+              "duration": 4000,
+	            "offsetXPerMs": 0.5,
+	            "offsetYPerMs": 0
+            }
+          ],
+          "direction": "right",
+          "position": {
+            "x": -600,
+            "y": 300,
+            "width": 90,
+            "height": 150
+          },
+          "skin": "enemy-1",
+          "type": 0
+        }
+      ],
+      "goal": {"x": -5800, "y":200, "width": 200, "height": 200},
+      "obstacles": []
+    }]
 }
