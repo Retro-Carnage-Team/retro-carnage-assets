@@ -354,190 +354,192 @@
       }
     ]
   },
-  "deathAnimation": [
-    {
-      "sprite": "images/player-1/death/1.png",
-      "offset": {
-        "x": -30,
-        "y": -50
+  "deathAnimation": {
+    "up": [
+      {
+        "sprite": "images/player-1/death/1.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/2.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/3.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/4.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/5.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/6.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/7.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/8.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/9.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/10.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/11.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/12.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/13.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/14.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/15.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/16.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/17.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/18.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/19.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/20.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/21.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/22.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/23.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/24.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/25.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
+      },
+      {
+        "sprite": "images/player-1/death/26.png",
+        "offset": {
+          "x": -30,
+          "y": -50
+        }
       }
-    },
-    {
-      "sprite": "images/player-1/death/2.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/3.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/4.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/5.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/6.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/7.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/8.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/9.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/10.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/11.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/12.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/13.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/14.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/15.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/16.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/17.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/18.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/19.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/20.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/21.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/22.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/23.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/24.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/25.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    },
-    {
-      "sprite": "images/player-1/death/26.png",
-      "offset": {
-        "x": -30,
-        "y": -50
-      }
-    }
-  ],
+    ]
+  },
   "idle": {
     "down": {
       "sprite": "images/player-1/idle/down.png",

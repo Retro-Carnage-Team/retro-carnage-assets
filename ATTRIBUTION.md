@@ -158,6 +158,9 @@ the author of the software.
 * Sunset Soldiers by Jean Beaufort (
   [Link](https://www.publicdomainpictures.net/en/view-image.php?image=224388&picture=sunset-soldiers)
   , [License](http://creativecommons.org/publicdomain/zero/1.0/))
+* Fire Animation by [WrathGames Studio](http://wrathgames.com/blog) (
+  [Link](https://opengameart.org/content/wgstudio-fire-animation-loop)
+  , [License](http://creativecommons.org/licenses/by/3.0/))
 
 ## Music
 

@@ -28,5 +28,100 @@
                 }
               }
         ]
+    },
+    "deathAnimation": {
+      "down": [
+        {
+          "sprite": "images/tank/death/down/01.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/down/02.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/down/03.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/down/04.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/down/05.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/down/06.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/down/07.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/down/08.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/down/09.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/down/10.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/down/11.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/down/12.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/down/13.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ]
     }
 }
