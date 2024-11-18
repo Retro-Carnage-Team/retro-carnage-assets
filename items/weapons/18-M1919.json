@@ -1,0 +1,15 @@
+{
+  "ammo": "7.62 x 51 mm",
+  "bulletInterval": 150,
+  "bulletRange": 1000,
+  "bulletSpeed": 1.4,
+  "description": "The M1919 is an American machine gun that was originally developed in 1918 as a tank machine gun from the Browning M1917. The standard US air-cooled machine gun was used for a long time during the 20th century in many military units, such as on tanks, in support of infantry, for air defense and even on warships.",
+  "image": "images/weapons/19.png",
+  "imageRotated": "images/weapons/19-r.png",
+  "length": "104.0 cm",
+  "name": "M1919",
+  "price": 3000,
+  "sound": "BAR.mp3",
+  "weaponType": 1,
+  "weight": "13.6 kg"
+}

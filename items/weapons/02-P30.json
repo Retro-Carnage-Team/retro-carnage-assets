@@ -1,0 +1,15 @@
+{
+  "ammo": "9 x 19 mm",
+  "bulletInterval": 0,
+  "bulletRange": 350,
+  "bulletSpeed": 1.1,
+  "description": "The P30 is a pistol in 9 mm x 19 caliber. As a regular police service weapon, it is primarily used for personal self-defense at close range.",
+  "image": "images/weapons/46.png",
+  "imageRotated": "images/weapons/46-r.png",
+  "length": "40.6 cm",
+  "name": "P30",
+  "price": 400,
+  "sound": "pistol.mp3",
+  "weaponType": 0,
+  "weight": "0.65 kg"
+}

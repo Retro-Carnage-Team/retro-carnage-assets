@@ -1,0 +1,15 @@
+{
+  "ammo": ".44 Magnum",
+  "bulletInterval": 0,
+  "bulletRange": 300,
+  "bulletSpeed": 1.0,
+  "description": "The 629 Classic is a revolver that combines robustness and precision. Equipped with adjustable sights, an SA/DA trigger and non-slip grip panels, this gun is at home both on the hunt and at the shooting range.",
+  "image": "images/weapons/45.png",
+  "imageRotated": "images/weapons/45-r.png",
+  "length": "40.6 cm",
+  "name": "629 Classic",
+  "price": 200,
+  "sound": "pistol.mp3",
+  "weaponType": 0,
+  "weight": "1.372 kg"
+}
