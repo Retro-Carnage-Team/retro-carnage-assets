@@ -1,7 +1,7 @@
 {
   "explosive": true,
   "maxCount": 10000,
-  "name": "4.6 x 30 mm",
+  "name": "40 x 46 mm",
   "packageSize": 100,
   "price": 110,
   "scattering": false
