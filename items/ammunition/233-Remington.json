@@ -1,0 +1,8 @@
+{
+  "explosive": false,
+  "maxCount": 10000,
+  "name": ".223 Remington",
+  "packageSize": 100,
+  "price": 130,
+  "scattering": false
+}

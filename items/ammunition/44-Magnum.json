@@ -1,0 +1,8 @@
+{
+  "explosive": false,
+  "maxCount": 10000,
+  "name": ".44 Magnum",
+  "packageSize": 100,
+  "price": 100,
+  "scattering": false
+}
