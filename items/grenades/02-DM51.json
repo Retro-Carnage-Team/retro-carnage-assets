@@ -1,0 +1,13 @@
+{
+  "description": "The DM51/DM51A1 fragmentation grenade is the standard hand grenade of the German Bundeswehr, where DM stands for “Deutsches Modell” (German model). Its introduction in 1974/75 replaced the DM41 fragmentation hand grenade and DT11, DT11B1 and DM21 explosive hand grenades used in the Bundeswehr.",
+  "explosive": "60 g",
+  "image": "images/weapons/44.png",
+  "imageRotated": "images/weapons/44-r.png",
+  "maxCount": 100,
+  "movementDistance": 550,
+  "movementSpeed": 0.85,
+  "name": "DM51",
+  "packageSize": 5,
+  "price": 600,
+  "weight": "0.43 kg"
+}
