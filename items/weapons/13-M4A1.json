@@ -1,0 +1,15 @@
+{
+  "ammo": "5.56 x 45 mm",
+  "bulletInterval": 110,
+  "bulletRange": 550,
+  "bulletSpeed": 1.4,
+  "description": "The M4 is a short and lightweight assault rifle with a high degree of adaptability for different combat situations. It was developed from the end of the 1990s. Like the longer M16 rifles, it belongs to the group of weapons with the AR-15 system.",
+  "image": "images/weapons/22.png",
+  "imageRotated": "images/weapons/22-r.png",
+  "length": "75.6 cm",
+  "name": "M4A1",
+  "price": 3000,
+  "sound": "AR10.mp3",
+  "weaponType": 1,
+  "weight": "2.9 kg"
+}

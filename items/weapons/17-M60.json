@@ -1,0 +1,15 @@
+{
+  "ammo": "7.62 x 51 mm",
+  "bulletInterval": 110,
+  "bulletRange": 800,
+  "bulletSpeed": 1.4,
+  "description": "The M60 multi-purpose machine gun was developed in the United States during the 1950s and is used by many armed forces.",
+  "image": "images/weapons/52.png",
+  "imageRotated": "images/weapons/52-r.png",
+  "length": "110.5 cm",
+  "name": "M60",
+  "price": 3000,
+  "sound": "AR10.mp3",
+  "weaponType": 1,
+  "weight": "10.5 kg"
+}

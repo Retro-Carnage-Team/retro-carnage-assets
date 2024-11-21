@@ -1,0 +1,8 @@
+{
+  "explosive": true,
+  "maxCount": 100,
+  "name": "85 mm",
+  "packageSize": 1,
+  "price": 2800,
+  "scattering": false
+}

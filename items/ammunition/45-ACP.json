@@ -1,0 +1,8 @@
+{
+  "explosive": false,
+  "maxCount": 10000,
+  "name": ".45 ACP",
+  "packageSize": 100,
+  "price": 100,
+  "scattering": false
+}

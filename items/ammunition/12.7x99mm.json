@@ -1,0 +1,8 @@
+{
+  "explosive": false,
+  "maxCount": 5000,
+  "name": "12.7 x 99 mm",
+  "packageSize": 20,
+  "price": 400,
+  "scattering": false
+}

@@ -1,8 +1,0 @@
-{
-  "description": "The cartridge was originally developed in the 1920s by John Moses Browning for the M2-MG. The forerunner of this cartridge was the 13×92 mm Mauser cartridge with half rim developed by the German Polte-Werke together with Mauser for the tank and aviation MG and used in the M1918 tank rifle. Previous tests with French 11 mm ammunition did not produce the hoped-for results. By analyzing captured German tank rifles with the corresponding ammunition, the .50 BMG could then be developed. In 1982, this type of ammunition was used for the first time by Barrett Firearms Manufacturing, Inc. in a sniper rifle, the M82A1. In the military sniper field, the .50 BMG is regarded as a cartridge with high destructive power at extreme ranges and is mainly used for aimed single shots against material targets such as radio systems and radar equipment.",
-  "image": "images/weapons/12.7x99.png",
-  "maxCount": 5000,
-  "name": ".50 BMG",
-  "packageSize": 20,
-  "price": 400
-}

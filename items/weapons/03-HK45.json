@@ -1,0 +1,15 @@
+{
+  "ammo": ".45 ACP",
+  "bulletInterval": 0,
+  "bulletRange": 380,
+  "bulletSpeed": 1.2,
+  "description": "The HK45 is a pistol in .45 ACP caliber. The pistol was developed as part of the US Joint Combat Pistol program, in which a successor to the existing US Army pistols was sought.",
+  "image": "images/weapons/08.png",
+  "imageRotated": "images/weapons/08-r.png",
+  "length": "40.6 cm",
+  "name": "HK45",
+  "price": 600,
+  "sound": "pistol.mp3",
+  "weaponType": 0,
+  "weight": "0.78 kg"
+}

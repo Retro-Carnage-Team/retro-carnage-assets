@@ -1,0 +1,13 @@
+{
+  "description": "The M67 is a very effective fragmentation grenade in the shape of an egg hand grenade used by the armed forces of the United States and the Canadian armed forces, designated here as C13. It is the successor to the M61 used in the Vietnam War.",
+  "explosive": "185 g",
+  "image": "images/weapons/43.png",
+  "imageRotated": "images/weapons/43-r.png",
+  "maxCount": 100,
+  "movementDistance": 450,
+  "movementSpeed": 0.8,
+  "name": "M67",
+  "packageSize": 5,
+  "price": 500,
+  "weight": "0.4 kg"
+}

@@ -1,0 +1,15 @@
+{
+  "ammo": "5.45 x 39 mm",
+  "bulletInterval": 100,
+  "bulletRange": 500,
+  "bulletSpeed": 1.4,
+  "description": "The AKS-74U is modeled on the AK-74 carbine. It has the typical dimensions and characteristics of a submachine gun, but fires the powerful 5.45 × 39 mm ammunition of the AK-74. A striking feature is the conical flash hider, which is attached to the end of the barrel instead of a muzzle brake and serves as an intake chamber, which prevents excessive recoil and telltale muzzle flash.",
+  "image": "images/weapons/16.png",
+  "imageRotated": "images/weapons/16-r.png",
+  "length": "67.5 cm",
+  "name": "AKS 74U",
+  "price": 1400,
+  "sound": "AK47.mp3",
+  "weaponType": 1,
+  "weight": "2.71 kg"
+}
