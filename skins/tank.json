@@ -122,6 +122,192 @@
             "y": 0
           }
         }
+      ],
+      "left": [
+        {
+          "sprite": "images/tank/death/left/01.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/left/02.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/left/03.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/left/04.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/left/05.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/left/06.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/left/07.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/left/08.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/left/09.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/left/10.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/left/11.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/left/12.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/left/13.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "right": [
+        {
+          "sprite": "images/tank/death/right/01.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/right/02.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/right/03.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/right/04.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/right/05.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/right/06.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/right/07.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/right/08.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/right/09.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/right/10.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/right/11.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/right/12.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "sprite": "images/tank/death/right/13.png",
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        }
       ]
     }
 }
