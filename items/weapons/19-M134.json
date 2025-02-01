@@ -8,7 +8,7 @@
   "imageRotated": "images/weapons/01-r.png",
   "length": "80.0 cm",
   "name": "M134",
-  "price": 3000,
+  "price": 25000,
   "sound": "BAR.mp3",
   "weaponType": 1,
   "weight": "16.0 kg"
