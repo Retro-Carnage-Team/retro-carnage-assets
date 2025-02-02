@@ -1,14 +1,14 @@
 {
   "ammo": "40 x 46 mm",
   "bulletInterval": 0,
-  "bulletRange": 650,
+  "bulletRange": 780,
   "bulletSpeed": 0.9,
   "description": "The MGL is a multi-shot grenade launcher that operates on the revolver principle. Since its introduction in 1983, 30 countries have added it to their arsenal.",
   "image": "images/weapons/47.png",
   "imageRotated": "images/weapons/47-r.png",
   "length": "73.0 cm",
   "name": "MGL",
-  "price": 400,
+  "price": 6000,
   "sound": "rlauncher.mp3",
   "weaponType": 0,
   "weight": "5.3 kg"

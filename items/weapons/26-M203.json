@@ -1,14 +1,14 @@
 {
   "ammo": "40 x 46 mm",
   "bulletInterval": 0,
-  "bulletRange": 650,
+  "bulletRange": 700,
   "bulletSpeed": 0.9,
   "description": "The M203 grenade launcher is a single shot weapon for 40 mm grenades.",
   "image": "images/weapons/24.png",
   "imageRotated": "images/weapons/24-r.png",
   "length": "40.6 cm",
   "name": "M203",
-  "price": 400,
+  "price": 3200,
   "sound": "rlauncher.mp3",
   "weaponType": 0,
   "weight": "2.8 kg"
