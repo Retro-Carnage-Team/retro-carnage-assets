@@ -8,7 +8,7 @@
   "imageRotated": "images/weapons/14-r.png",
   "length": "91.0 cm",
   "name": "PSR",
-  "price": 400,
+  "price": 10000,
   "sound": "M28A1.mp3",
   "weaponType": 0,
   "weight": "7.3 kg"

@@ -1,14 +1,14 @@
 {
   "ammo": "7.62 x 51 mm",
   "bulletInterval": 0,
-  "bulletRange": 1300,
+  "bulletRange": 1250,
   "bulletSpeed": 1.2,
   "description": "The rifle has special de-icing properties that allow the weapon to be used efficiently at temperatures of around -40 °C. The bolt, the bolt, the magazine release and the trigger guard of the L96 have been enlarged to make it easier to use the rifle when wearing thick arctic mittens.",
   "image": "images/weapons/05.png",
   "imageRotated": "images/weapons/05-r.png",
   "length": "142.0 cm",
   "name": "L96",
-  "price": 400,
+  "price": 14000,
   "sound": "M28A1.mp3",
   "weaponType": 0,
   "weight": "6.1 kg"
