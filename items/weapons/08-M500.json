@@ -1,6 +1,6 @@
 {
   "ammo": "18.2 x 76 mm",
-  "bulletInterval": 0,
+  "bulletInterval": 1550,
   "bulletRange": 300,
   "bulletSpeed": 1.1,
   "description": "The weapon is a repeating shotgun. After each shot, the shooter must eject the empty cartridge case to the right by pulling back the movable fore-end and then feed a new cartridge from the tubular magazine under the barrel by pushing it forward.",
@@ -9,7 +9,7 @@
   "length": "55.0 cm",
   "name": "M500",
   "price": 1200,
-  "sound": "pistol.mp3",
+  "sound": "shotgun.mp3",
   "weaponType": 0,
   "weight": "3.0 kg"
 }
