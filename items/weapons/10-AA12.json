@@ -1,6 +1,6 @@
 {
   "ammo": "18.2 x 76 mm",
-  "bulletInterval": 170,
+  "bulletInterval": 300,
   "bulletRange": 580,
   "bulletSpeed": 1.1,
   "description": "The AA12 is a self-loading shotgun that was developed in 1972. The rifle can fire 360 rounds per minute fully automatically at an effective range of approx. 100 meters.",
@@ -9,7 +9,7 @@
   "length": "96.6 cm",
   "name": "AA12",
   "price": 5600,
-  "sound": "pistol.mp3",
+  "sound": "aa12.mp3",
   "weaponType": 1,
   "weight": "4.76 kg"
 }
