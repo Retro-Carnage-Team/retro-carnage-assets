@@ -1,6 +1,6 @@
 {
   "ammo": "9 x 19 mm",
-  "bulletInterval": 0,
+  "bulletInterval": 750,
   "bulletRange": 350,
   "bulletSpeed": 1.1,
   "description": "The P30 is a pistol in 9 mm x 19 caliber. As a regular police service weapon, it is primarily used for personal self-defense at close range.",
