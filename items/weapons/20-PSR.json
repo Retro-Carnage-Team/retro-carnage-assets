@@ -3,6 +3,7 @@
   "bulletInterval": 0,
   "bulletRange": 900,
   "bulletSpeed": 1.2,
+  "coolDownSound": "",
   "description": "The Precision Sniper Rifle is a compact and robust sniper rifle in 12.7 × 99 mm caliber. The effective range is not as long as that of other models.",
   "image": "images/weapons/14.png",
   "imageRotated": "images/weapons/14-r.png",

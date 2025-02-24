@@ -216,3 +216,7 @@ the author of the software.
 * Incoming Ricochets 2 by [rakurka](https://freesound.org/people/rakurka/) (
   [Link](https://freesound.org/s/109957/), 
   [License](https://creativecommons.org/licenses/by/3.0/))
+* M134 Minigun Firing.wav by [SoundFX.studio](https://freesound.org/people/SoundFX.studio/) (
+  [Link](https://freesound.org/s/474125/), 
+  [License](https://creativecommons.org/licenses/by-nc/4.0/))
+

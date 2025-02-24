@@ -3,6 +3,7 @@
   "bulletInterval": 110,
   "bulletRange": 800,
   "bulletSpeed": 1.4,
+  "coolDownSound": "",
   "description": "The M60 multi-purpose machine gun was developed in the United States during the 1950s and is used by many armed forces.",
   "image": "images/weapons/52.png",
   "imageRotated": "images/weapons/52-r.png",

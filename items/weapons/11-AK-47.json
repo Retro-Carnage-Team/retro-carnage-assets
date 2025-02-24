@@ -3,6 +3,7 @@
   "bulletInterval": 110,
   "bulletRange": 550,
   "bulletSpeed": 1.4,
+  "coolDownSound": "",
   "description": "Kalashnikov is the common name for a series of Soviet-Russian assault rifles and machine guns based on the original AK model and named after its developer Mikhail Timofeyevich Kalashnikov.",
   "image": "images/weapons/18.png",
   "imageRotated": "images/weapons/18-r.png",

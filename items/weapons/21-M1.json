@@ -3,6 +3,7 @@
   "bulletInterval": 0,
   "bulletRange": 1000,
   "bulletSpeed": 1.2,
+  "coolDownSound": "",
   "description": "John C. Garand developed this rifle in the 1930s. It was introduced into the United States Army in 1936. It was robust, reliable and the first self-loading military rifle in the United States to be used in a war.",
   "image": "images/weapons/29.png",
   "imageRotated": "images/weapons/29-r.png",

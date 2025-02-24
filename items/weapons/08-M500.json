@@ -3,6 +3,7 @@
   "bulletInterval": 1550,
   "bulletRange": 300,
   "bulletSpeed": 1.1,
+  "coolDownSound": "",
   "description": "The weapon is a repeating shotgun. After each shot, the shooter must eject the empty cartridge case to the right by pulling back the movable fore-end and then feed a new cartridge from the tubular magazine under the barrel by pushing it forward.",
   "image": "images/weapons/07.png",
   "imageRotated": "images/weapons/07-r.png",

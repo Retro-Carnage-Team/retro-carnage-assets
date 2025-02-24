@@ -3,6 +3,7 @@
   "bulletInterval": 140,
   "bulletRange": 580,
   "bulletSpeed": 1.4,
+  "coolDownSound": "",
   "description": "A no-frills submachine gun with a medium range. ",
   "image": "images/weapons/11.png",
   "imageRotated": "images/weapons/11-r.png",

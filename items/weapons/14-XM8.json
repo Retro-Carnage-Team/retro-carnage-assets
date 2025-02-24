@@ -3,6 +3,7 @@
   "bulletInterval": 110,
   "bulletRange": 550,
   "bulletSpeed": 1.4,
+  "coolDownSound": "",
   "description": "The XM8 is an assault rifle based on the HK G36. The XM8 was developed after the US Army's OICW program was split into three parts and was initially known as OICW Increment I. However, due to political concerns, the rifle was not procured. However, the rifle was not procured due to political concerns on the part of those responsible for the project.",
   "image": "images/weapons/04.png",
   "imageRotated": "images/weapons/04-r.png",

@@ -3,6 +3,7 @@
   "bulletInterval": 120,
   "bulletRange": 630,
   "bulletSpeed": 1.2,
+  "coolDownSound": "",
   "description": "The VHS-2S is a fully ambidextrous semi-automatic bullpup rifle in .223 Remington. Developed on the modular bullpup platform with proven gas piston system, it retains all the ballistic advantages of a longer barrel in compact dimensions - without sacrificing accuracy and muzzle velocity.",
   "image": "images/weapons/34.png",
   "imageRotated": "images/weapons/34-r.png",

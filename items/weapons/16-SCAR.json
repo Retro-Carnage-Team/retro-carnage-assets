@@ -3,6 +3,7 @@
   "bulletInterval": 96,
   "bulletRange": 550,
   "bulletSpeed": 1.4,
+  "coolDownSound": "",
   "description": "The SCAR is a multi-caliber rifle from a Belgian manufacturer. It is used by the US Special Operations Forces and the US Rangers, among others. Final testing and development took place in mid-2006, and the SCAR was assigned to US Army units in April 2009.",
   "image": "images/weapons/42.png",
   "imageRotated": "images/weapons/42-r.png",

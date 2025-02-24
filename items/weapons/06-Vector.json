@@ -3,6 +3,7 @@
   "bulletInterval": 120,
   "bulletRange": 600,
   "bulletSpeed": 1.4,
+  "coolDownSound": "",
   "description": "The Vector is a submachine gun. A special technical feature of this weapon is a partially vertically moving bolt. The basic idea behind the KRISS Vector is good controllability of fire bursts.",
   "image": "images/weapons/21.png",
   "imageRotated": "images/weapons/21-r.png",

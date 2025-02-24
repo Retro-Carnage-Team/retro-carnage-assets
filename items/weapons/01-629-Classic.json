@@ -3,6 +3,7 @@
   "bulletInterval": 900,
   "bulletRange": 300,
   "bulletSpeed": 1.0,
+  "coolDownSound": "",
   "description": "The 629 Classic is a revolver that combines robustness and precision. Equipped with adjustable sights, an SA/DA trigger and non-slip grip panels, this gun is at home both on the hunt and at the shooting range.",
   "image": "images/weapons/45.png",
   "imageRotated": "images/weapons/45-r.png",

@@ -3,6 +3,7 @@
   "bulletInterval": 110,
   "bulletRange": 550,
   "bulletSpeed": 1.4,
+  "coolDownSound": "",
   "description": "The M4 PRO is a semi-automatic rifle in .223 Remington caliber. It is a high-quality self-loading rifle based on the AR15 platform with a precision barrel.",
   "image": "images/weapons/35.png",
   "imageRotated": "images/weapons/35-r.png",

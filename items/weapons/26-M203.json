@@ -3,6 +3,7 @@
   "bulletInterval": 0,
   "bulletRange": 700,
   "bulletSpeed": 0.9,
+  "coolDownSound": "",
   "description": "The M203 grenade launcher is a single shot weapon for 40 mm grenades.",
   "image": "images/weapons/24.png",
   "imageRotated": "images/weapons/24-r.png",

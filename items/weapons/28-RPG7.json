@@ -3,6 +3,7 @@
   "bulletInterval": 0,
   "bulletRange": 1200,
   "bulletSpeed": 1.0,
+  "coolDownSound": "",
   "description": "The RPG-7 is a reactive anti-tank rifle that was developed in the Soviet Union. Due to its simple and reliable design and its low price, it became the most widely used anti-tank weapon in the world. It is estimated that more than 9 million were built in 2002.",
   "image": "images/weapons/10.png",
   "imageRotated": "images/weapons/10-r.png",

@@ -3,6 +3,7 @@
   "bulletInterval": 1150,
   "bulletRange": 450,
   "bulletSpeed": 1.1,
+  "coolDownSound": "",
   "description": "The 870 is a muzzle-loading repeating shotgun. It is a widely used weapon, especially in the USA, for sport shooting, hunting and self-defense. The rifle was developed in 1951 and introduced to the United States Marine Corps in 1966 as a replacement for the obsolete shotguns from the Second World War.",
   "image": "images/weapons/40.png",
   "imageRotated": "images/weapons/40-r.png",
