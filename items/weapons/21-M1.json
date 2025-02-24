@@ -1,6 +1,6 @@
 {
   "ammo": "7.56 x 63 mm",
-  "bulletInterval": 0,
+  "bulletInterval": 1350,
   "bulletRange": 1000,
   "bulletSpeed": 1.2,
   "coolDownSound": "",
@@ -10,7 +10,7 @@
   "length": "110.7 cm",
   "name": "M1",
   "price": 11000,
-  "sound": "M28A1.mp3",
+  "sound": "rifle.mp3",
   "weaponType": 0,
   "weight": "4.37 kg"
 }

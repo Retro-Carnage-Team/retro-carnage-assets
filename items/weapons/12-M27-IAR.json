@@ -1,15 +1,15 @@
 {
   "ammo": "5.56 x 45 mm",
   "bulletInterval": 110,
-  "bulletRange": 550,
-  "bulletSpeed": 1.4,
+  "bulletRange": 700,
+  "bulletSpeed": 1.1,
   "coolDownSound": "",
   "description": "The M27 Infantry Automatic Rifle has been the multi-role ordnance rifle of the United States Marine Corps since 2017. The M27 represents a new infantry rifle concept, as it is used in the role of a light machine gun, a rifle with telescopic sight and an assault rifle. The M27 IAR is a further development of the HK416 assault rifle.",
   "image": "images/weapons/02.png",
   "imageRotated": "images/weapons/02-r.png",
   "length": "93.7 cm",
   "name": "M27 IAR",
-  "price": 3000,
+  "price": 5200,
   "sound": "AR10.mp3",
   "weaponType": 1,
   "weight": "3.6 kg"

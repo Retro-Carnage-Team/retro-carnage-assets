@@ -9,8 +9,8 @@
   "imageRotated": "images/weapons/19-r.png",
   "length": "104.0 cm",
   "name": "M1919",
-  "price": 3000,
-  "sound": "BAR.mp3",
+  "price": 18000,
+  "sound": "MG4.mp3",
   "weaponType": 1,
   "weight": "13.6 kg"
 }

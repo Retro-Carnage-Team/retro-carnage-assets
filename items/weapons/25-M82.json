@@ -1,6 +1,6 @@
 {
   "ammo": "12.7 x 99 mm",
-  "bulletInterval": 1000,
+  "bulletInterval": 750,
   "bulletRange": 1600,
   "bulletSpeed": 2.0,
   "coolDownSound": "",

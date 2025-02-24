@@ -1,6 +1,6 @@
 {
   "ammo": "40 x 46 mm",
-  "bulletInterval": 0,
+  "bulletInterval": 1800,
   "bulletRange": 700,
   "bulletSpeed": 0.9,
   "coolDownSound": "",

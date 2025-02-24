@@ -1,6 +1,6 @@
 {
   "ammo": "7.62 x 51 mm",
-  "bulletInterval": 0,
+  "bulletInterval": 1200,
   "bulletRange": 1200,
   "bulletSpeed": 1.2,
   "coolDownSound": "",
@@ -10,7 +10,7 @@
   "length": "102.3 cm",
   "name": "G3SG1",
   "price": 13500,
-  "sound": "M28A1.mp3",
+  "sound": "rifle.mp3",
   "weaponType": 0,
   "weight": "5.54 kg"
 }
