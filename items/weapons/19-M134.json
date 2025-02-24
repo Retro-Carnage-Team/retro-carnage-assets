@@ -3,13 +3,14 @@
   "bulletInterval": 10,
   "bulletRange": 1000,
   "bulletSpeed": 1.4,
+  "coolDownSound": "minigun-end.mp3",
   "description": "A minigun is a fully automatic firearm with a standard caliber of 7.62 × 51 mm that operates on the Gatling principle. Engineers scaled down the 20 mm Gatling gun M61 Vulcan to the NATO standard caliber 7.62 × 51 mm. The result was the six-barrel Minigun. The machine gun could fire 6000 rounds per minute without overheating.",
   "image": "images/weapons/01.png",
   "imageRotated": "images/weapons/01-r.png",
   "length": "80.0 cm",
   "name": "M134",
-  "price": 3000,
-  "sound": "BAR.mp3",
+  "price": 25000,
+  "sound": "minigun-loop.mp3",
   "weaponType": 1,
   "weight": "16.0 kg"
 }

@@ -1,8 +1,9 @@
 {
   "ammo": "12.7 x 99 mm",
-  "bulletInterval": 1000,
+  "bulletInterval": 750,
   "bulletRange": 1600,
   "bulletSpeed": 2.0,
+  "coolDownSound": "",
   "description": "The first prototype of the rifle in 12.7 × 99 mm caliber was built in 1982, which explains the designation M82, and initially only a few were produced for the civilian market. This changed when the Swedish army bought 100 rifles in 1989. A short time later, the US armed forces ordered a larger quantity of M82s in preparation for Operation Desert Storm as a Special Applications Scoped Rifle. The M82 is currently used by over 30 countries.",
   "image": "images/weapons/06.png",
   "imageRotated": "images/weapons/06-r.png",

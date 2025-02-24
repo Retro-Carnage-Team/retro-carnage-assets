@@ -1,15 +1,16 @@
 {
   "ammo": "7.56 x 63 mm",
-  "bulletInterval": 0,
+  "bulletInterval": 1350,
   "bulletRange": 1000,
   "bulletSpeed": 1.2,
+  "coolDownSound": "",
   "description": "John C. Garand developed this rifle in the 1930s. It was introduced into the United States Army in 1936. It was robust, reliable and the first self-loading military rifle in the United States to be used in a war.",
   "image": "images/weapons/29.png",
   "imageRotated": "images/weapons/29-r.png",
   "length": "110.7 cm",
   "name": "M1",
-  "price": 400,
-  "sound": "M28A1.mp3",
+  "price": 11000,
+  "sound": "rifle.mp3",
   "weaponType": 0,
   "weight": "4.37 kg"
 }

@@ -1,15 +1,16 @@
 {
   "ammo": "7.62 x 51 mm",
-  "bulletInterval": 0,
-  "bulletRange": 1100,
+  "bulletInterval": 1200,
+  "bulletRange": 1200,
   "bulletSpeed": 1.2,
+  "coolDownSound": "",
   "description": "The SG1 version of the G3 rifle is a sniper rifle based on a rapid-fire rifle from a German weapons manufacturer. The rifle has a bolt action, telescopic sight and bipod.",
   "image": "images/weapons/33.png",
   "imageRotated": "images/weapons/33-r.png",
   "length": "102.3 cm",
   "name": "G3SG1",
-  "price": 400,
-  "sound": "M28A1.mp3",
+  "price": 13500,
+  "sound": "rifle.mp3",
   "weaponType": 0,
   "weight": "5.54 kg"
 }
